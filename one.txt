@@ -1,2 +1,4 @@
 This is our first file, which I will publish on GitHub
 Add another file to the folder and commit it.
+Learned the basics of GitHub
+Learned the basics of Git
